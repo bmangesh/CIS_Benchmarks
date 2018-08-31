@@ -1,5 +1,5 @@
 #!/bin/bash
-
+Author: Mangesh Bharsakle
 ###############################
 # CIS Benchmark FOR Ubuntu 18.04
 ###############################
